@@ -6,8 +6,8 @@ import boto3
 # Configure S3 client
 s3 = boto3.client(
     's3',
-    aws_access_key_id='AKIA5QK5MFS4WKOESOW6',
-    aws_secret_access_key='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')
+    aws_access_key_id='XXXXXXX',
+    aws_secret_access_key='XXXX')
 
 
 # Database initialization
